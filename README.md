@@ -1,5 +1,4 @@
-# kluckbet
-# Kluckbet
+# KLuck.bet
 
 A prediction market on **Solana**, inspired by Polymarket. Users create YES/NO markets, buy and sell outcome shares, and after a market ends the winners redeem their payout.
 
